@@ -21,6 +21,11 @@ Tools
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=appveyor&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=appveyor&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=appveyor&logo=Git&logoColor=white"/>
 
+Most Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MYEONG95&layout=compact)](https://github.com/MYEONG95/github-readme-stats)
+
+
 <!--
 **junichoi95/junichoi95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
