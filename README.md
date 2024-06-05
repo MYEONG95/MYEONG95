@@ -15,7 +15,9 @@ but I want to stay with development until all my black hair falls out!
 
 Languages & Platforms
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=appveyor&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=appveyor&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=appveyor&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=appveyor&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=appveyor&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=appveyor&logo=jQuery&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=appveyor&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=appveyor&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=appveyor&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=appveyor&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=appveyor&logo=nextdotjs&logoColor=white">
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=appveyor&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=appveyor&logo=Laravel&logoColor=white">
 
 Tools
 
